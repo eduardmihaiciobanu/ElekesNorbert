@@ -11,11 +11,11 @@
   Tensiunea de alimentare: 3V3 sau 5V
 
   Placa va conține:
-    * 1x encoder digital
-    * 1x afișaj 7 segment cu digiți multiplexați
-    * 1x afișaj LCD
-    * 8x butoane
-    * 8x LED-uri
-    * 1x potențiometru
-    * 1x convertor UART-USB
-    * 1x senzor Hall
+    *1x encoder digital
+    *1x afișaj 7 segment cu digiți multiplexați
+    *1x afișaj LCD
+    *8x butoane
+    *8x LED-uri
+    *1x potențiometru
+    *1x convertor UART-USB
+    *1x senzor Hall
