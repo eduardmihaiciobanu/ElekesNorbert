@@ -17,6 +17,5 @@
 * 4x butoane
 * 4x LED-uri
 * 1x potențiometru
-* 1x convertor UART-USB
 * 1x buzzer
 * 1x senzor Hall
