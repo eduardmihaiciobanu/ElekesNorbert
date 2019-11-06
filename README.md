@@ -13,7 +13,7 @@
   Placa va conține:
 * 1x encoder digital
 * 1x afișaj 7 segment cu digiți multiplexați
-* 1x afișaj LCD
+* 1x senzor de temperatură (DS18B20)
 * 4x butoane
 * 4x LED-uri
 * 1x potențiometru
